@@ -7,7 +7,7 @@
 			"categories": [
 				"docker"
 			],
-			"platform": "linux",
+			"platform": "windows",
 			"logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/registry.png",
 			"image": "portainerci/portainer:2.6",
 			"ports": [
@@ -24,7 +24,7 @@
 			"categories": [
 				"webserver"
 			],
-			"platform": "linux",
+			"platform": "windows",
 			"logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/nginx.png",
 			"image": "nginx:latest",
 			"ports": [
